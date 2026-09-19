@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Me chamo Diego Carvalho de Souza, tenho 18 anos e sou natural do Piauí. Concluí o ensino médio no IFPI, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFPI. Sou fascinado por tecnologia.
+Me chamo Diego Carvalho de Souza, tenho 18 anos e sou natural do Piauí. Concluí o ensino médio no IFPI, com o curso técnico em informática. Sou fascinado por tecnologia.
 
 <p align="left">
     <a href="https://github.com/DiegoCs-dev?tab=followers">
